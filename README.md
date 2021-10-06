@@ -1,3 +1,4 @@
+[![AutoGame CI][autogame-ci-shield]][autogame-ci-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -93,8 +94,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Invoker - invoker-bot@outlook.com
-Project Link: <https://github.com/invokerrrr/autogame-python>
+Invoker - <mailto:invoker-bot@outlook.com>
+
+_Project Link: <https://github.com/invokerrrr/autogame-python>_
 
 
 ## Acknowledgements
@@ -103,13 +105,6 @@ Project Link: <https://github.com/invokerrrr/autogame-python>
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/invokerrrr/autogame-python.svg?style=for-the-badge
@@ -122,4 +117,5 @@ Project Link: <https://github.com/invokerrrr/autogame-python>
 [issues-url]: https://github.com/invokerrrr/autogame-python/issues
 [license-shield]: https://img.shields.io/github/license/invokerrrr/autogame-python.svg?style=for-the-badge
 [license-url]: https://github.com/invokerrrr/autogame-python/blob/main/LICENSE
-
+[autogame-ci-shield]: https://github.com/invokerrrr/autogame-python/actions/workflows/autogame-ci.yml/badge.svg
+[autogame-ci-url]: https://github.com/invokerrrr/autogame-python/actions/workflows/autogame-ci.yml
