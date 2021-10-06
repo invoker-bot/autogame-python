@@ -6,12 +6,12 @@
 
 
 <br />
-<p align="center">
+<div align="center">
   <a href="https://github.com/invokerrrr/autogame-python">
-    <img src="https://github.com/invokerrrr/autogame-python/blob/main/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://invokerrrr.github.io/autogame-python/_static/img/logo.png" alt="Logo" width="337" height="90">
   </a>
 
-  <h3 align="center">Auto Game</h3>
+  <h1 align="center">Auto Game</h1>
 
   <p align="center">
     A python framework for automatic game playing, which can be used to develop automatic game scripts.
@@ -25,7 +25,7 @@
     ·
     <a href="https://github.com/invokerrrr/autogame-python/issues">Request Feature</a>
   </p>
-</p>
+</div>
 
 
 ## About The Project

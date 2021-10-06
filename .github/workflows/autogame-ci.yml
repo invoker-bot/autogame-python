@@ -1,4 +1,4 @@
-name: Python On Push
+name: AutoGame CI
 
 on:
   push:
