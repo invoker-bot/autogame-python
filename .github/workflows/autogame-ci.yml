@@ -1,4 +1,4 @@
-name: Python On Push
+name: AutoGame CI
 
 on:
   push:
@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [ '2.x', '3.x' ]
+        python-version: [ '3.x' ]
     if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags')
     steps:
       - uses: actions/checkout@v2

@@ -22,7 +22,7 @@ copyright = '2021, Invoker'
 author = 'Invoker'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0'
+release = __import__("autogame").__version__
 
 # -- General configuration ---------------------------------------------------
 
@@ -68,3 +68,4 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+# html_favicon = '_static/favicon.ico'

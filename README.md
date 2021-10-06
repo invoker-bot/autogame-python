@@ -1,3 +1,4 @@
+[![AutoGame CI][workflow-shield]][workflow-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -5,13 +6,13 @@
 [![MIT License][license-shield]][license-url]
 
 
-<br />
-<p align="center">
+<br/>
+<div align="center">
   <a href="https://github.com/invokerrrr/autogame-python">
-    <img src="https://github.com/invokerrrr/autogame-python/blob/main/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://invokerrrr.github.io/autogame-python/_static/img/logo.png" alt="Logo" width="337" height="90">
   </a>
 
-  <h3 align="center">Auto Game</h3>
+  <h1 align="center">Auto Game</h1>
 
   <p align="center">
     A python framework for automatic game playing, which can be used to develop automatic game scripts.
@@ -25,7 +26,7 @@
     ·
     <a href="https://github.com/invokerrrr/autogame-python/issues">Request Feature</a>
   </p>
-</p>
+</div>
 
 
 ## About The Project
@@ -60,6 +61,7 @@ pip install autogame-python
 
 ```python
 import autogame
+...
 ```
 
 <!-- USAGE EXAMPLES -->
@@ -93,23 +95,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Invoker - invoker-bot@outlook.com
-Project Link: <https://github.com/invokerrrr/autogame-python>
+Invoker - <mailto:invoker-bot@outlook.com>
+
+_Project Link: <https://github.com/invokerrrr/autogame-python>_
 
 
 ## Acknowledgements
 * [Simple Logo Generator](https://github.com/creecros/simple_logo_gen.git)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template.git)
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/invokerrrr/autogame-python.svg?style=for-the-badge
@@ -122,4 +117,5 @@ Project Link: <https://github.com/invokerrrr/autogame-python>
 [issues-url]: https://github.com/invokerrrr/autogame-python/issues
 [license-shield]: https://img.shields.io/github/license/invokerrrr/autogame-python.svg?style=for-the-badge
 [license-url]: https://github.com/invokerrrr/autogame-python/blob/main/LICENSE
-
+[workflow-shield]: https://github.com/invokerrrr/autogame-python/actions/workflows/autogame-ci.yml/badge.svg?branch=main&event=push
+[workflow-url]: https://github.com/invokerrrr/autogame-python/actions/workflows/autogame-ci.yml

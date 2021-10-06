@@ -1,3 +1,3 @@
-__version__ = "0.0"
-
+__version__ = "1.0.dev1"
+# (a|b|rc).postN.devN
 # from main import *

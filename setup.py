@@ -85,6 +85,7 @@ setup(
     ],
     is_pure=True,
     zip_safe=True,
+    platforms="any",
     cmdclass={
         'docs': CDocsCommand
     }
